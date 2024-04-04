@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Wesley Coelho
--
+- 🎓 System Analysis and Development
 - ⚡ I am currently studying POSTGRE SQL 
 - 📫 How to contact me "wjrtecnologia10@gmail.com"
 <!---
